@@ -1,0 +1,12 @@
+{
+    "name": "tailwind-porto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "tailwind.config.js",
+    "scripts": {
+        "dev": "npx tailwindcss -i ./input.css -o ./css/output.css --watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
